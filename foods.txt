@@ -1,0 +1,4 @@
+Banana,Fruit
+Tomato,Vegetable
+Beef,Meat
+Roll,Bread

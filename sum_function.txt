@@ -1,0 +1,5 @@
+def sum(numbers):
+    total = 0
+    for number in numbers:
+        total = total + 1
+    return total
